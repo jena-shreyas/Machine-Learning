@@ -1,0 +1,50 @@
+TRAINING OF BINARY SVM CLASSIFIERS WITH DIFFERENT KERNELS
+
+Accuracy of SVM classifier using Linear Kernel:  0.9444444444444444
+
+Accuracy of SVM classifier using Quadratic Kernel:  0.9166666666666666
+
+Accuracy of SVM classifier using Radial Basis Function Kernel:  1.0
+
+
+TRAINING OF TWO DIFFERENT MULTI-LAYER PERCEPTRONS
+ 
+Average Accuracy of MLP classifier using 1 layer with 16 hidden units:  0.9694444444444444
+
+Average Accuracy of MLP classifier using 2 layers with 256 and 16 hidden units:  0.976388888888889
+
+
+TRAINING THE BEST MODEL FROM PREVIOUS STAGE FOR DIFFERENT LEARNING RATES
+
+Accuracy of best MLP classifier with learning rate =  1e-05  is:  1.0
+
+Accuracy of best MLP classifier with learning rate =  0.0001  is:  1.0
+
+Accuracy of best MLP classifier with learning rate =  0.001  is:  1.0
+
+Accuracy of best MLP classifier with learning rate =  0.01  is:  1.0
+
+Accuracy of best MLP classifier with learning rate =  0.1  is:  1.0
+
+
+ FEATURE SELECTION USING FORWARD SELECTION
+
+Iteration:  1  Accuracy:  0.8611111111111112  Feature:  Flavanoids
+Forward Feature List for iteration  1  is  ['Flavanoids']
+Iteration:  2  Accuracy:  0.9444444444444444  Feature:  Ash
+Forward Feature List for iteration  2  is  ['Flavanoids', 'Ash']
+Iteration:  3  Accuracy:  0.9722222222222222  Feature:  Alcohol
+Forward Feature List for iteration  3  is  ['Flavanoids', 'Ash', 'Alcohol']
+Iteration:  4  Accuracy:  1.0  Feature:  Malic acid
+Forward Feature List for iteration  4  is  ['Flavanoids', 'Ash', 'Alcohol', 'Malic acid']
+
+ ENSEMBLE LEARNING USING MAX VOTING
+
+Accuracy of Binary SVM using Quadratic Kernel:  0.9166666666666666
+Accuracy of Binary SVM using Radial Basis Function:  1.0
+Accuracy of the best Multi-Layer Perceptron model:  1.0
+Accuracy of Ensemble Learning using Max Voting:  1.0
+
+ Execution is complete. 
+
+

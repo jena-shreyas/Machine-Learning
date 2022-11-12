@@ -1,0 +1,238 @@
+ITERATION 1 :
+
+WITHOUT LAPLACE SMOOTHING ...
+
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 0
+10-fold validation accuracy : 0.4961957588106557
+Test accuracy : 0.49524413443246673
+
+USING LAPLACE SMOOTHING FACTOR ...
+
+Enter Laplace smoothing factor : 1
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 1.0
+10-fold validation accuracy : 0.4958715065529645
+Test accuracy : 0.5009511731135067
+
+
+ITERATION 2 :
+
+WITHOUT LAPLACE SMOOTHING ...
+
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 0
+10-fold validation accuracy : 0.49000301864010265
+Test accuracy : 0.5117311350665821
+
+USING LAPLACE SMOOTHING FACTOR ...
+
+Enter Laplace smoothing factor : 1
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 1.0
+10-fold validation accuracy : 0.4904877619299173
+Test accuracy : 0.5022194039315155
+
+
+ITERATION 3 :
+
+WITHOUT LAPLACE SMOOTHING ...
+
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 0
+10-fold validation accuracy : 0.49381405176967774
+Test accuracy : 0.50285351934052
+
+USING LAPLACE SMOOTHING FACTOR ...
+
+Enter Laplace smoothing factor : 1
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 1.0
+10-fold validation accuracy : 0.49714134782280583
+Test accuracy : 0.4914394419784401
+
+
+ITERATION 4 :
+
+WITHOUT LAPLACE SMOOTHING ...
+
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 0
+10-fold validation accuracy : 0.49318869016174877
+Test accuracy : 0.49270767279644895
+
+USING LAPLACE SMOOTHING FACTOR ...
+
+Enter Laplace smoothing factor : 1
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 1.0
+10-fold validation accuracy : 0.4923925238346791
+Test accuracy : 0.5041217501585289
+
+
+ITERATION 5 :
+
+WITHOUT LAPLACE SMOOTHING ...
+
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 0
+10-fold validation accuracy : 0.4920715417704324
+Test accuracy : 0.5091946734305643
+
+USING LAPLACE SMOOTHING FACTOR ...
+
+Enter Laplace smoothing factor : 1
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 1.0
+10-fold validation accuracy : 0.4949256659874727
+Test accuracy : 0.48636651870640457
+
+
+ITERATION 6 :
+
+WITHOUT LAPLACE SMOOTHING ...
+
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 0
+10-fold validation accuracy : 0.492231529695872
+Test accuracy : 0.5003170577045022
+
+USING LAPLACE SMOOTHING FACTOR ...
+
+Enter Laplace smoothing factor : 1
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 1.0
+10-fold validation accuracy : 0.4928619223706387
+Test accuracy : 0.4889029803424223
+
+
+ITERATION 7 :
+
+WITHOUT LAPLACE SMOOTHING ...
+
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 0
+10-fold validation accuracy : 0.49572359318793546
+Test accuracy : 0.4787571337983513
+
+USING LAPLACE SMOOTHING FACTOR ...
+
+Enter Laplace smoothing factor : 1
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 1.0
+10-fold validation accuracy : 0.49160013080773773
+Test accuracy : 0.49524413443246673
+
+
+ITERATION 8 :
+
+WITHOUT LAPLACE SMOOTHING ...
+
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 0
+10-fold validation accuracy : 0.49112444343823103
+Test accuracy : 0.4933417882054534
+
+USING LAPLACE SMOOTHING FACTOR ...
+
+Enter Laplace smoothing factor : 1
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 1.0
+10-fold validation accuracy : 0.49048625260986595
+Test accuracy : 0.50856055802156
+
+
+ITERATION 9 :
+
+WITHOUT LAPLACE SMOOTHING ...
+
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 0
+10-fold validation accuracy : 0.49968052725580464
+Test accuracy : 0.4819277108433735
+
+USING LAPLACE SMOOTHING FACTOR ...
+
+Enter Laplace smoothing factor : 1
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 1.0
+10-fold validation accuracy : 0.49809725052197323
+Test accuracy : 0.47939124920735576
+
+
+ITERATION 10 :
+
+WITHOUT LAPLACE SMOOTHING ...
+
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 0
+10-fold validation accuracy : 0.4923925238346792
+Test accuracy : 0.5053899809765378
+
+USING LAPLACE SMOOTHING FACTOR ...
+
+Enter Laplace smoothing factor : 1
+Data samples before outlier removal : 8068
+Data samples after outlier removal : 7885
+Training set size : 6308
+Testing set size : 1577
+Laplace smoothing factor : 1.0
+10-fold validation accuracy : 0.49254597137322975
+Test accuracy : 0.49080532656943565

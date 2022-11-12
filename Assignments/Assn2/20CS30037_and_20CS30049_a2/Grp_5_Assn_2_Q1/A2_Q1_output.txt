@@ -1,0 +1,20 @@
+Performing dimensionality reduction using PCA ...
+Number of principal components:  10
+Total variance explained by 10 components: 96.17%
+Plotting data wrt first two PCs...
+PCA plots saved in ./output_plots/
+Performing k-means clustering...
+Computing NMI for k = 2 to 8 ...
+NMI for k = 2 is 0.5013631823800656
+NMI for k = 3 is 0.8472896471857924
+NMI for k = 4 is 0.7569277351151601
+NMI for k = 5 is 0.7525772009894589
+NMI for k = 6 is 0.6339057263954603
+NMI for k = 7 is 0.632643641229236
+NMI for k = 8 is 0.633194337715482
+NMI computed.
+Value of k for which NMI is maximum: 3
+max NMI: 0.8472896471857924
+Plotting NMI vs k...
+NMI vs k plot saved in ./output_plots/
+
